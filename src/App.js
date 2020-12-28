@@ -4,7 +4,8 @@ function App() {
   return (
     <div>
       {/* <CounterContainer /> */}
-      <SampleContainer />
+      {/* <SampleContainer /> */}
+      <CounterContainer />
     </div>
   );
 }
